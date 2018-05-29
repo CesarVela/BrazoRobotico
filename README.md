@@ -12,6 +12,7 @@ El robot debe tener dos funciones básicas:
 
 Características principales:
 1.	El proyecto se usa para controlar robots con 4 DOF ("Grados de libertad").
+
 ![esquema](4dof.png "4DOF")
 ![esquema](brazo_bb0.jpg "Esquema")
 
@@ -22,6 +23,7 @@ Características principales:
 ![esquema](leds.jpg "leds")
 
 4.	Los brazos robóticos se pueden clasificar de acuerdo con el número de "articulaciones" o "Grados de libertad" (DOF) que tienen.
+
 ![esquema](tipobrazo.png "tipo")
 
 5.	-La "Base", o "Cintura", por lo general puede girar el brazo 180o o 360o, dependiendo del tipo de Servo utilizado (aquí en este proyecto, se debe utilizar un motor a pasos para girar 360o) 
